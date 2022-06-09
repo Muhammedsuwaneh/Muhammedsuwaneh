@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
-    <img src=" 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -17,7 +17,7 @@ I'm Muhammed. Pursuing a degree in Computer Engineering.
 I develop, design and test both web and desktop applications. 
 I'm kind of nerdy but curious and willing to learn new stuff.
 
-I make use of the following tech stack/tools in my Software related projects:
+I make use of the following tech stack/tools in my software related projects:
 
 ## Web & Desktop
 
