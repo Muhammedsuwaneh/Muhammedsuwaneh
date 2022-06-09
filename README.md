@@ -19,7 +19,7 @@ I'm kind of nerdy but curious and willing to learn new stuff.
 
 I make use of the following tech stack/tools in my software related projects:
 
-## Web & Desktop
+## Web Development
 
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,3 +33,7 @@ I make use of the following tech stack/tools in my software related projects:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 </div>
+
+---
+
+### :fire: My Stats :
