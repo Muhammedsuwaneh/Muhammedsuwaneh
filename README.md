@@ -28,8 +28,8 @@ I make use of the following tech stack/tools in my software related projects:
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&messageASP.NET Core MVC&color=green" />
-  <img src="https://img.shields.io/static/v1?label=&messageEntity Framework&color=red" />
+  <img src="https://img.shields.io/static/v1?label=""&messageASP.NET Core MVC&color=green" />
+  <img src="https://img.shields.io/static/v1?label=""&messageEntity Framework&color=red" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -39,11 +39,11 @@ I make use of the following tech stack/tools in my software related projects:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=&messageWPF&color=green" />
-  <img src="https://img.shields.io/static/v1?label=&messageWindows Forms&color=red" />
-  <img src="https://img.shields.io/static/v1?label=&messageXUNIT&color=green" />
-  <img src="https://img.shields.io/static/v1?label=&messageDapper ORM&color=red" />
-  <img src="https://img.shields.io/static/v1?label=&message=XAML&color=green" />
+  <img src="https://img.shields.io/static/v1?label=""&messageWPF&color=green" />
+  <img src="https://img.shields.io/static/v1?label=""&messageWindows Forms&color=red" />
+  <img src="https://img.shields.io/static/v1?label=""&messageXUNIT&color=green" />
+  <img src="https://img.shields.io/static/v1?label=""&messageDapper ORM&color=red" />
+  <img src="https://img.shields.io/static/v1?label=""&message=XAML&color=green" />
 </div>
 
 ### :hammer_and_wrench: Progamming Languages:
