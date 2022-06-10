@@ -1,14 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/muhammed-suwaneh-694261132/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/muhammed-suwaneh-694261132/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
 </div>
 
 ### Hi there 👋
@@ -50,4 +49,4 @@ I make use of the following tech stack/tools in my software related projects:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammedsuwaneh&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Muhammedsuwaneh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedsuwaneh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
