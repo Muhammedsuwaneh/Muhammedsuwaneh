@@ -36,7 +36,8 @@ I make use of the following tech stack/tools in my software related projects:
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F" />
-  <img src=" 	https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wpf/wpf-original.svg" title="JavaScript" alt="wpf" width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Progamming Languages:
