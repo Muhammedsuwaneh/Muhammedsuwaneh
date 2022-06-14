@@ -7,12 +7,14 @@
     <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <h3>Muhammed Suwaneh</h3>
+    <h3>Software Engineer</h3>
   </div>
 </div>
 
 ### Hi there 👋
 
-I'm Muhammed. Pursuing a degree in Computer Engineering.
+I'm Muhammed. Pursuing a degree in Computer Engineering. 
 I develop, design and test both web and desktop applications. 
 I'm kind of nerdy but curious and willing to learn new stuff.
 
