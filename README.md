@@ -14,10 +14,10 @@
 ### Hi there 👋
 
 I'm Muhammed. Pursuing a degree in Computer Engineering. 
-I develop, design and test both web and desktop applications. 
-I'm kind of nerdy but curious and willing to learn new stuff.
+I use various software engineering techniques to develop, design and test web and desktop applications. 
+Kind of nerdy but curious and willing to learn new stuff. 
 
-I make use of the following tech stack/tools in my software related projects:
+I make use of the following technologies in my software related projects:
 
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
