@@ -7,8 +7,7 @@
     <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <h3>Muhammed Suwaneh</h3>
-    <h3>Software Engineer</h3>
+    <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
 </div>
 
