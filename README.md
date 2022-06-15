@@ -61,8 +61,9 @@ I make use of the following technologies in my software related projects:
 
 ### :fire: Github Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammedsuwaneh&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<a href="https://github.com/Muhammedsuwaneh/Muhammedsuwaneh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammedsuwaneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammed's github stats" /></a>
+<div id="badges">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muhammedsuwaneh&theme=dark&background=000000)](https://git.io/streak-stats)
+   <a href="https://github.com/Muhammedsuwaneh/Muhammedsuwaneh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammedsuwaneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammed's github stats" /></a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedsuwaneh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
