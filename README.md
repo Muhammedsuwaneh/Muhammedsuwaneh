@@ -41,6 +41,10 @@ I make use of the following technologies in my software related projects:
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/-WPF-white" />
+  <img src="https://img.shields.io/badge/-ReactJS-blue" />
+  <img src="https://img.shields.io/badge/-NextJS-red" />
+  <img src="https://img.shields.io/badge/-TypeScript-white" />
+  <img src="https://img.shields.io/badge/-MaterialUI-blue" />
   <img src="https://img.shields.io/badge/-Windows Forms-blue" />
   <img src="https://img.shields.io/badge/-XUNIT-green" />
   <img src="https://img.shields.io/badge/-Dapper ORM-red" />
