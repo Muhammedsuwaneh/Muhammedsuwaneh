@@ -13,11 +13,11 @@
 
 ### Hi there 👋
 
-I'm Muhammed. Pursuing a degree in Computer Engineering. 
+I'm Muhammed. a Computer Engineering student. 
 I use various software engineering techniques to develop, design and test web and desktop applications. 
 Kind of nerdy but curious and willing to learn new stuff. 
 
-I make use of the following technologies in my software related projects:
+Some of the techonlogies I use for my Software related projects
 
  <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" />
