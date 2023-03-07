@@ -14,7 +14,7 @@
 ### Hi there 👋
 
 I'm Muhammed. a Computer Engineering student. 
-I use various software engineering techniques to develop, design and test web and desktop applications. 
+I use various software engineering techniques to develop, design, test, deploy and maintain web and desktop applications. 
 Kind of nerdy but curious and willing to learn new stuff. 
 
 Some of the techonlogies I use for my Software related projects
