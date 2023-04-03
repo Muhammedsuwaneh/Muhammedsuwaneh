@@ -7,6 +7,9 @@
     <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+     <a href="https://shorturl.at/bjpKL">
+      <img src="https://img.shields.io/badge/Website" alt="website"/>
+    </a>
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
 </div>
