@@ -16,8 +16,8 @@
 
 ### Hi there 👋
 
-I'm Muhammed. a Computer Engineering student. 
-I use various software engineering techniques to develop, design, test, deploy and maintain dynamic web and desktop applications. 
+I'm Muhammed,
+a Full stack Software Engineer, specialized in designing, developing and deploying both static and dynamic Web applications
 
 Some of the techonlogies I use for my Software related projects
 
