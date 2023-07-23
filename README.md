@@ -52,7 +52,7 @@ I'm a highly motivated Full-stack Software engineer, Data Analyst, Artificial in
   <img src="https://img.shields.io/badge/-TensorFlow-pink" />
   <img src="https://img.shields.io/badge/-Pandas-green" />
   <img src="https://img.shields.io/badge/-Matplotlib-white" />
-  <img src="https://img.shields.io/badge/-Scikit-Learn-grey" />
+  <img src="https://img.shields.io/badge/-Scikit Learn-grey" />
   <img src="https://img.shields.io/badge/-Orange-yellow" />
   <img src="https://img.shields.io/badge/-Tableau-red" />
  </div>
