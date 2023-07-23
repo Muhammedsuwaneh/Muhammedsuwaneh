@@ -14,12 +14,7 @@
   </div>
 </div>
 
-### Hi there 👋
-
-I'm Muhammed,
-a Full stack Software Engineer, specialized in designing, developing and deploying both static and dynamic Web applications
-
-Some of the techonlogies I use for my Software related projects
+I'm a highly motivated Full-stack Software engineer, Data Analyst, Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
 
  <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" />
