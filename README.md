@@ -10,7 +10,7 @@
      <a href="https://shorturl.at/bjpKL" target="_blank">
       <img src="https://img.shields.io/badge/-Website-blue" alt="website" height="30px"/>
     </a>
-    <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
+    <h3>Muhammed Suwaneh | <span><b>Software Engineer (.NET)</b></span></h3>
   </div>
 </div>
 
