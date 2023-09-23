@@ -15,14 +15,3 @@
 </div>
 
 I'm a highly motivated Full-stack Web Developer(.NET), Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
-
-
-
-### :fire: Github Stats :
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammedsuwaneh&show_icons=true&include_all_commits=true&hide_border=true"/> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedsuwaneh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
-| ------------- | ------------- |
-  
-
