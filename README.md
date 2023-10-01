@@ -14,4 +14,4 @@
   </div>
 </div>
 
-I'm a highly motivated Full-stack Web Developer(.NET), Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
+I'm a highly motivated Full-stack .NET Developer, Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
