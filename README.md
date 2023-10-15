@@ -10,8 +10,8 @@
      <a href="https://shorturl.at/bjpKL" target="_blank">
       <img src="https://img.shields.io/badge/-Website-blue" alt="website" height="30px"/>
     </a>
-    <h3>Muhammed Suwaneh | <span><b>.NET Developer</b></span></h3>
+    <h3>Muhammed Suwaneh | <span><b>Software ENgineer</b></span></h3>
   </div>
 </div>
 
-I'm a highly motivated Full-stack .NET Developer, Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
+I'm a highly motivated Full-stack Software Engineer, Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
