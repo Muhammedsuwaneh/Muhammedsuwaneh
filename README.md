@@ -11,4 +11,4 @@
   </div>
 </div>
 
-I'm a highly motivated Full-stack Software Engineer, Machine Learnming & Artificial intelligence enthusiast and a Computer Engineering graduate, seeking challenging opportunities to contribute to cutting-edge projects. Skilled in designing and implementing robust solutions to enhance user experience and streamline business operations using solid contemporary technologies
+Results-oriented Software Engineer with a strong educational background in Computer Engineering. Experienced in full-stack development using C#, ASP.NET Core, and a variety of front-end technologies. Passionate about Machine Learning and Artificial Intelligence. Seeking opportunities to contribute technical expertise and innovative solutions to .NET development projects.
