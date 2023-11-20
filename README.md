@@ -28,4 +28,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="50px" height="50px"/>
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://www.dropbox.com/scl/fi/1yv9h4uz9bqys2da6a9tg/typescript-icon-icon-1024x1024-vh3pfez8.png?rlkey=s2prsdii4s1zn723hur9c2g2z&raw=1" />
+  <img src="https://www.dropbox.com/scl/fi/l1l6ca9spp59im9p1vbdx/file-type-angular-icon-1907x2048-tobdkjt1.png?rlkey=ehe3kxwifv9erl6l73d45cok1&raw=1" />
+  <img src="https://www.dropbox.com/scl/fi/6y3qgyiptl6s76z35aih1/873107.png?rlkey=vutusi3gurzo22b7w0i3twgd6&raw=1" />
 </div>
