@@ -1,6 +1,7 @@
 
 <div id="header" align="center" margin="25px">
   <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="80%" height="400"  /> 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammed-suwaneh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muhammed-suwaneh?trk=profile-badge">Muhammed Suwaneh</a></div>
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
