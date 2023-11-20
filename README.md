@@ -6,6 +6,7 @@
   </div>
   Results-oriented Software Engineer with a strong educational background in Computer Engineering. Experienced in full-stack development using C#, ASP.NET Core, and a variety of front-end technologies. Passionate about Machine Learning and Artificial Intelligence. Seeking opportunities to contribute technical expertise and innovative solutions to .NET development projects.
 </div>
+
 <div id="badges" padding="25px">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px"/>
