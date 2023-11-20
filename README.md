@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="700" height="300"  /> 
-  <div id="badges" style="margin:50px">
+  <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="700" height="400"  /> 
+  <div id="badges" style="border: 1px solid black">
     <a href="https://www.linkedin.com/in/muhammed-suwaneh-694261132/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
