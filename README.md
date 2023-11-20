@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header" align="center" padding="25px>
   <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="700" height="400"  /> 
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
