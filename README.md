@@ -2,12 +2,6 @@
 <div id="header" align="center">
   <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="700" height="400"  /> 
   <div id="badges>
-    <a href="https://www.linkedin.com/in/muhammed-suwaneh-694261132/" target="_blank"  style="margin:25px">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/muhammed_suwaneh/?hl=en" target="_blank"  style="margin:25px">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
 </div>
