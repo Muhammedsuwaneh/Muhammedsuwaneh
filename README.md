@@ -4,6 +4,8 @@
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
+  Results-oriented Software Engineer with a strong educational background in Computer Engineering. Experienced in full-stack development using C#, ASP.NET Core, and a variety of front-end technologies. Passionate about Machine Learning and Artificial Intelligence. Seeking opportunities to contribute technical expertise and innovative solutions to .NET development projects.
+</div>
 <div id="badges">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px"/>
@@ -23,6 +25,4 @@
   <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="50px" height="50px"/>
   <img src="https://skillicons.dev/icons?i=heroku" />
   <img src="https://skillicons.dev/icons?i=vercel" />
-</div>
-  Results-oriented Software Engineer with a strong educational background in Computer Engineering. Experienced in full-stack development using C#, ASP.NET Core, and a variety of front-end technologies. Passionate about Machine Learning and Artificial Intelligence. Seeking opportunities to contribute technical expertise and innovative solutions to .NET development projects.
 </div>
