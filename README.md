@@ -3,11 +3,8 @@
   <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="80%" height="250"  /> 
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
+  </div>Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. 
   </div>
-  
-  Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. Let's connect!
-  
-</div>
 
 <div id="badges" margin="25px">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px"/>
