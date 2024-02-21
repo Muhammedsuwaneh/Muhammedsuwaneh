@@ -3,11 +3,8 @@
   <img src="https://www.dropbox.com/scl/fi/2nr9wfxlcpwlemhim3qvw/Slide-16_9-3.png?rlkey=laxlj1i7sf0j9vxbfu14n3sft&raw=1" width="80%" height="250"  /> 
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
+        Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. 
   </div>
-  <div margin="25px">
-    Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. 
-  </div>
-
 <div id="badges" margin="55px">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px"/>
@@ -29,4 +26,5 @@
   <img src="https://skillicons.dev/icons?i=vercel" />
   <img src="https://www.dropbox.com/scl/fi/1yv9h4uz9bqys2da6a9tg/typescript-icon-icon-1024x1024-vh3pfez8.png?rlkey=s2prsdii4s1zn723hur9c2g2z&raw=1" width="50px" height="50px"/>
   <img src="https://www.dropbox.com/scl/fi/6y3qgyiptl6s76z35aih1/873107.png?rlkey=vutusi3gurzo22b7w0i3twgd6&raw=1" width="50px" height="50px"/>
+  <img src="https://skillicons.dev/icons?i=wpf" />
 </div>
