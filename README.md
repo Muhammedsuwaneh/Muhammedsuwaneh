@@ -26,5 +26,5 @@
   <img src="https://skillicons.dev/icons?i=vercel" />
   <img src="https://www.dropbox.com/scl/fi/1yv9h4uz9bqys2da6a9tg/typescript-icon-icon-1024x1024-vh3pfez8.png?rlkey=s2prsdii4s1zn723hur9c2g2z&raw=1" width="50px" height="50px"/>
   <img src="https://www.dropbox.com/scl/fi/6y3qgyiptl6s76z35aih1/873107.png?rlkey=vutusi3gurzo22b7w0i3twgd6&raw=1" width="50px" height="50px"/>
-    <img src=" https://spin.atomicobject.com/wp-content/uploads/Microsoft_WPF.png" width="50px" height="50px"/>
+  <img src="https://spin.atomicobject.com/wp-content/uploads/Microsoft_WPF.png" width="50px" height="50px"/>
 </div>
