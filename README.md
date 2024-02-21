@@ -4,7 +4,7 @@
   <div id="badges">
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
-  <div>
+  <div margin="25px">
     Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. 
   </div>
 
