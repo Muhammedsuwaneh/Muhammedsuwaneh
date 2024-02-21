@@ -5,7 +5,7 @@
     <h3>Muhammed Suwaneh | <span><b>Software Engineer</b></span></h3>
   </div>
   
-  Results-oriented Software Engineer with a strong educational background in Computer Engineering. Experienced in full-stack development using C#, ASP.NET Core, and a variety of front-end technologies. Passionate about Machine Learning and Artificial Intelligence. Seeking opportunities to contribute technical expertise and innovative solutions to software development projects.
+  Results-oriented C# .NET Software Engineer | Specializing in WPF, Unity, and ASP.NET for kiosk systems, touch screens, and web applications. Passionate about creating seamless user experiences and staying ahead in tech trends. Let's connect!
   
 </div>
 
