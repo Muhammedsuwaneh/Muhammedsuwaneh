@@ -9,8 +9,8 @@ I'm a passionate **R&D Software Engineer** with experience in developing user-fr
 - **Machine Learning & Data Analysis:** Python, Scikit-Learn, Orange, NumPy
 
 ### 📚 Certifications
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- freeCodeCamp: **Foundational C# with Microsoft**
+- [Microsoft Certified: **Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/api/credentials/share/en-us/MuhammedSuwaneh-7221/40FDCB52AFE7D993?sharingId=8B84BC73C918283)  
+- [freeCodeCamp: **Foundational C# with Microsoft**](https://www.freecodecamp.org/certification/fcc13054f69-e672-43bd-bbd5-fe4d9d6a848d/foundational-c-sharp-with-microsoft)
 
 ### 🚀 Current Focus
 - Studying for **AZ-204** (Azure Developer Associate) & **AZ-400** (Azure DevOps Engineer)
