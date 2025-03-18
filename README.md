@@ -20,5 +20,6 @@ I'm a passionate **R&D Software Engineer** with experience in developing user-fr
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/)  
+- [LinkedIn](https://www.linkedin.com/in/muhammed-suwaneh/)
+- [Xing](https://www.xing.com/profile/Muhammed_Suwaneh)
 
