@@ -1,4 +1,4 @@
-## Muhammed Suwaneh | Software Engineer • R&D • Enterprise & Embedded Software
+### Muhammed Suwaneh | Software Engineer • R&D • Enterprise & Embedded Software
 
 I specialize in research, development, and implementation of high-performance enterprise and embedded software solutions for kiosks, touch screens, digital signage systems, interactive walls and floors, slide screens, and automated virtual devices. 
 
