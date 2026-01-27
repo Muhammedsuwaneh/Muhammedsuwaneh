@@ -1,6 +1,8 @@
 ### Muhammed Suwaneh | Software Engineer • R&D • Enterprise & Embedded Software
 
-I specialize in research, development, and implementation of high-performance enterprise and embedded software solutions for kiosks, touch screens, digital signage systems, interactive walls and floors, slide screens, and automated virtual devices. My work spans the full R&D lifecycle, including system design, prototyping, programming, testing, optimization, and deployment. I also integrate and manage diverse hardware and IoT systems, such as MOXA I/O modules, VEGAFU SMC-X24 hardware simulator, TUYA IoT devices, QR code and barcode scanners (via serial port & UART), webcams, and Microsoft Kinect sensors, ensuring reliable communication between software and hardware components.
+R&D-focused software engineer specializing in high-performance enterprise and embedded systems for kiosks, touch screens, digital signage, and interactive displays. Experienced across the full development lifecycle, from system design and prototyping to optimization and production deployment.
+
+Strong background in software–hardware integration, working with I/O modules, hardware simulators, IoT devices, QR/barcode scanners (UART/Serial), cameras, and Microsoft Kinect to deliver stable, responsive, and scalable systems. Passionate about building reliable real-world software that bridges hardware and user experience.
 
 Programming Languages: C#, C/C++, Python
 
