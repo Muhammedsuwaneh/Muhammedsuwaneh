@@ -7,6 +7,7 @@ Strong background in software–hardware integration, working with I/O modules, 
 Programming Languages: C#, C/C++, Python
 
 Frameworks and Tools: .NET, WPF, Windows Forms, Qt/QML, .NET MAUI, DevExpress, OpenCV
+
 Hardware: Touch Displays, Kinect Sensors, VegaFU SMC_X24 module and DOF Simulators, Arduino UNO, NANO and ESP32 MCUs, Nextion TFT Displays, MOXA ioLojik modules, UART QR-Barcode Scanners
 
 ### 📫 Let's Connect
