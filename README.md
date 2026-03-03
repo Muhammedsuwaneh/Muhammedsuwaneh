@@ -1,6 +1,6 @@
-### Muhammed Suwaneh | Software Engineer • R&D • Enterprise & Embedded Software
+### Muhammed Suwaneh | Software Engineer • R&D • Desktop & Embedded Software
 
-R&D-focused software engineer specializing in high-performance enterprise and embedded systems for kiosks, touch screens, digital signage, and interactive displays. Experienced across the full development lifecycle, from system design and prototyping to optimization and production deployment.  
+R&D-focused software engineer specializing in high-performance enterprise and embedded software for kiosks, touch screens, digital signage, and interactive displays. Experienced across the full development lifecycle, from system design and prototyping to optimization and production deployment.  
 
 Strong background in software–hardware integration, working with I/O modules, hardware simulators, IoT devices, MCUs, QR/barcode scanners (UART/Serial), webcams, and Microsoft Kinect sensors to deliver stable, responsive, and scalable systems. Passionate about building reliable real-world software that bridges hardware and user experience.
 
