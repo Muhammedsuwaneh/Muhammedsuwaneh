@@ -1,14 +1,16 @@
-### Muhammed Suwaneh | Software Engineer • R&D • Desktop & Embedded Software
+### Muhammed Suwaneh | Software Engineer • R&D • Desktop & Embedded Software | HMI | Kiosk | Digital Museum Exhibitions
 
-R&D-focused software engineer specializing in high-performance enterprise and embedded software for kiosks, touch screens, digital signage, and interactive displays. Experienced across the full development lifecycle, from system design and prototyping to optimization and production deployment.  
+R&D-focused Software Engineer with a bachelor's degree in Computer Engineering and 2+ years of industry experience, specializing in high-performance interactive and embedded systems for kiosks, touch screens, digital signage, and virtual museum applications. Experienced across the full development lifecycle, from system design and prototyping to optimization, deployment, and long-term maintenance.
 
-Strong background in software–hardware integration, working with I/O modules, hardware simulators, IoT devices, MCUs, QR/barcode scanners (UART/Serial), webcams, and Microsoft Kinect sensors to deliver stable, responsive, and scalable systems. Passionate about building reliable real-world software that bridges hardware and user experience.
+I have a background in software–hardware integration, working closely with cross-functional teams to deliver reliable, production-ready systems used in public and industrial environments. Hands-on experience integrating Moxa I/O controllers, IoT devices, ESP32 MCUs, HMIs, QR/barcode scanners (UART/Serial), webcams, and Microsoft Kinect sensors, with a focus on real-time communication, stability, and performance.
+
+Contributed to the development and deployment of large-scale interactive systems for exhibitions, museums, and international projects across Türkiye, ArtXSpace - Miami, Uzbekistan, and the UAE. Passionate about building maintanable, user-focused software that bridges hardware and immersive user experiences.
 
 Programming Languages: C#, C/C++, Python
 
-Frameworks and Tools: .NET, WPF, Windows Forms, Qt/QML, .NET MAUI, DevExpress, OpenCV
+Frameworks & Tools: .NET, WPF, Windows Forms, Qt/QML, .NET MAUI, DevExpress, OpenCV, ESP-IDF
 
-Hardware: LCD & OLED Touch Displays, Kinect Sensors, VegaFU SMC_X24 module and DOF Simulators, Arduino UNO, NANO and ESP32 MCUs, Nextion TFT Displays, MOXA ioLojik modules, UART QR-Barcode Scanners
+Hardware: LCD & OLED Displays, Kinect Sensors, ESP32 MCU Series, Nextion TFT Displays, VegaFU SMC_X24 Modules, DOF Simulators, MOXA ioLogik Modules, UART QR/Barcode Scanners
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/muhammed-suwaneh/)
