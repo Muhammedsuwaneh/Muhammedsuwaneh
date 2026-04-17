@@ -1,4 +1,4 @@
-### Muhammed Suwaneh | Software Engineer, R&D | Desktop & Embedded Software | HMI | Kiosk | Digital Museum Displays
+### Muhammed Suwaneh | Software Engineer, R&D | Desktop & Embedded Software | Kiosk | Industrial HMI | Digital Museum Displays
 
 R&D-focused Software Engineer with a bachelor's degree in Computer Engineering and 2+ years of industry experience, specializing in high-performance interactive and embedded systems for kiosks, touch screens, digital signage, and virtual museum applications. Experienced across the full development lifecycle, from system design and prototyping to optimization, deployment, and long-term maintenance.
 
